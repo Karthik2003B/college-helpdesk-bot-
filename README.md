@@ -147,8 +147,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or support, please contact:
-- Email: your.email@college.edu
-- GitHub: [@your-username](https://github.com/your-username)
+- Email: karrthikb1204@gmail.com
+- GitHub: https://github.com/Karthik2003B
 
 ## Acknowledgments
 
